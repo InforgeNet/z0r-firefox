@@ -1,5 +1,0 @@
-content   z0r-firefox                content/
-skin      z0r-firefox  classic/1.0   skin/
-locale    z0r-firefox  en-US         locale/en-US/
-
-overlay chrome://browser/content/browser.xul  chrome://z0r-firefox/content/browserOverlay.xul
