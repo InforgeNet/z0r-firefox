@@ -1,5 +1,5 @@
 #IMMINENT TODO
-- [ ]fix http://www output
+- [ ] fix http://www output
 
 # TODO List
 - [ ] Check Status of the response from z0r.it
