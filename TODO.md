@@ -1,3 +1,6 @@
+#IMMINENT TODO
+- [ ]fix http://www output
+
 # TODO List
 - [ ] Check Status of the response from z0r.it
 - [ ] Avoid use of non-SDK or flagged as sensitive interfaces (line 2 in main.js - use tabs/utils)
