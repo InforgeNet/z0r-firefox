@@ -4,4 +4,5 @@
 - [ ] Add support to personalize the shrinked link
 - [ ] Add support to view statistics about an URL (url-stats)
 - [ ] Add Context Menu Item that shrink the selected URL
-- [ ] Fix URL validity check
+- [x] Fix URL validity check
+- [ ] Add shrink history
